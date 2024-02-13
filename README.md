@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/karansinghrana1/virat_kohli.git
-
+```
 
 ## Design
 Thoughtfully designed with a focus on a clean and intuitive UI/UX for a delightful user experience.
